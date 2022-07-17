@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://gofer-new.github.io/gofer-4/sitemap.xml
